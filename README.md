@@ -1,15 +1,8 @@
 ## English
 - 👋 Hi, I’m [@SikinoGaming](https://github.com/SikinoGaming).
 - I'm a 13 years old developer specialized in Backend languages.
-- I know :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SikinoGaming&count_private=true)
 
-| Backend  | Frontend |
-| :----------: | :----------: |
-| Java | HTML |
-| Python | CSS |
-| NodeJS | JavaScript |
-| Batch | PHP |
-| C# | MySQL |
 
 ### Social Media :
 [YouTube](https://www.youtube.com/channel/UC08jBD4MwfhkNOR2gUS06CQ)<br>
@@ -20,15 +13,8 @@
 ## Français
 - 👋 Salut, Je suis [@SikinoGaming](https://github.com/SikinoGaming).
 - Je suis un développeur de 13 ans specialisé dans les languages Backend.
-- Je maitrise :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SikinoGaming&count_private=true)
 
-| Backend  | Frontend |
-| :----------: | :----------: |
-| Java | HTML |
-| Python | CSS |
-| NodeJS | JavaScript |
-| Batch | PHP |
-| C# | MySQL |
 
 ### Réseaux Sociaux :
 [YouTube](https://www.youtube.com/channel/UC08jBD4MwfhkNOR2gUS06CQ)<br>
