@@ -3,7 +3,7 @@
 - I'm a 13 years old developer specialized in Backend languages.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SikinoGaming&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SikinoGamingexclude_repo=SikinoGaming,)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SikinoGaming&exclude_repo=SikinoGaming,)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Social Media :
@@ -17,7 +17,7 @@
 - Je suis un développeur de 13 ans specialisé dans les languages Backend.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SikinoGaming&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SikinoGamingexclude_repo=SikinoGaming)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SikinoGaming&exclude_repo=SikinoGaming)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
