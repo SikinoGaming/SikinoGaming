@@ -14,11 +14,11 @@ sudo docker build -t serveur-mc .
 # Lance l'image
 sudo docker run -d \
 -v /home/{USERNAME}/server_files:/serveur \
--p HOST-PORT:25565 \
---name=serveur serveur-mc
+-p {HOST-PORT}:25565 \
+--name={NOM} serveur-mc
 
 # Il ne se passe rien, montrer les logs
-sudo docker logs serveur-mc
+sudo docker logs {NOM}
 
 # Télécharger le serveur.jar
 
